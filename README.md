@@ -85,7 +85,7 @@ The Power BI dashboard is divided into **four main pages**:
 
 | Monthly View | Consolidated View | Patient Details | Key Takeaways |
 |--------------|-------------------|-----------------|----------------|
-| ![Monthly](images/monthly_view.png) | ![Consolidated](images/consolidated_view.png) | ![Details](images/patient_details.png) | ![Insights](images/key_takeaways.png) |
+| ![Monthly](images/Monthly_View.png) | ![Consolidated](images/Consolidated_View.png) | ![Details](images/Patient_Details.png) | ![Insights](images/Key_Takeaways.png) |
 
 ---
 
@@ -102,7 +102,6 @@ LinkedIn: [linkedin.com/in/mahmoud-elta](https://www.linkedin.com/in/mahmoud-elt
 ## ⭐ Acknowledgements
 
 This project is part of my data analytics portfolio and showcases the power of **Power BI** in healthcare data analysis.  
-Special thanks to the mentors and courses that supported my learning journey in data visualization and analytics.
 
 ---
 
