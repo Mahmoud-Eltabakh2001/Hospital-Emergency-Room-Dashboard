@@ -95,7 +95,7 @@ If you have any questions or suggestions, feel free to reach out:
 
 **Mahmoud Reda**  
 Email: mahmoud.reda.eltabakh@gmail.com  
-LinkedIn: [linkedin.com/in/mahmoud-elta](https://www.linkedin.com/in/mahmoud-reda2001/)  
+LinkedIn: [Mahmoud Eltabakh](https://www.linkedin.com/in/mahmoud-reda2001/)  
 
 ---
 
